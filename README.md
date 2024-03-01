@@ -1,13 +1,13 @@
 # 📝 
 
 English
-- Source Codes will be shared when the project reaches 30 Stars.
+- Source Codes will be shared when the project reaches 100 Stars.
 - 
 - 
 - 
 
 Türkçe
-- Source Codes will be shared when the project reaches 30 Stars.
+- Proje 100 Yıldıza ulaştığında Kaynak Kodları paylaşılacaktır.
 - 
 - 
 - 
