@@ -6,9 +6,9 @@
   <h3 align="center">Habbo Fansite Project Open Source</h3>
 
   <p align="center">
-    <a href="">View Demo</a>
+    <a href="#">View Demo (testing)</a>
     ·
-    <a href="">İnstagram</a>
+    <a href="#">İnstagram(offline)</a>
     ·
   </p>
 </div>
