@@ -11,23 +11,38 @@
     <a href="">İnstagram</a>
     ·
   </p>
+</div>
 
 
-
-# 📝 
+# 📝 (EN) Project content / (TR) Proje İçerigi 
 
 English
 - Source Codes will be shared when the project reaches 100 Stars.
-- 
-- 
-- 
+- Register / Login
+- Admin Panel
+- News
+- Comments
+- Team
+- Activity
+- Announcement
+- Leaders
+- Profile
+- Setting an Avatar Independently from the Hotel
+- More....
 
 Türkçe
 - Proje 100 Yıldıza ulaştığında Kaynak Kodları paylaşılacaktır.
-- 
-- 
-- 
-
+- Kayıt ol / Giriş Yap
+- Admin Panel
+- Haberler
+- Yorumlar
+- Ekip 
+- Etkinlik
+- Duyuru
+- Liderler 
+- Profil
+- Hotelden Bagımsız Avatar Ayarlama
+- Daha fazlası....
 
 # 📷 Images
 
