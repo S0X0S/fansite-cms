@@ -9,7 +9,6 @@
     <a href="#">View Demo (testing)</a>
     ·
     <a href="#">İnstagram(offline)</a>
-    ·
   </p>
 </div>
 
