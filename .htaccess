@@ -1,0 +1,32 @@
+RewriteEngine On
+Options +FollowSymlinks
+
+RewriteRule ^connexion$ ?identifiant=login
+RewriteRule ^deconnexion$ ?identifiant=logout
+RewriteRule ^inscription$ ?identifiant=register
+
+
+RewriteRule ^xuk$ index.php
+RewriteRule ^equipe$ equipe.php
+RewriteRule ^secu$ secu.php
+
+RewriteRule ^settings$ settings.php
+RewriteRule ^settings/username$ settings.php?parameters=username
+RewriteRule ^settings/mdp$ settings.php?parameters=pass
+RewriteRule ^settings/look/([0-9]+)$ settings.php?parameters=look&id=$1
+
+RewriteRule ^contact$ contact.php
+RewriteRule ^contact/([0-9]+)$ contact.php?id=$1
+RewriteRule ^contact/new$ contact.php?&contact=new
+RewriteRule ^contact/([0-9]+)/answer$ contact.php?id=$1&contact=answer
+
+RewriteRule ^articles$ articles.php
+RewriteRule ^articles/([0-9]+)$ articles.php?page=$1
+
+RewriteRule ^article/([0-9]+)$ article.php?id=$1
+RewriteRule ^article/([0-9]+)/([0-9]+)$ article.php?id=$1&page=$2
+RewriteRule ^article/([0-9]+)/comment$ article.php?id=$1&news=comment
+
+RewriteRule ^haber/([0-9]+)$ haber.php?id=$1
+RewriteRule ^haber/([0-9]+)/([0-9]+)$ haber.php?id=$1&page=$2
+RewriteRule ^haber/([0-9]+)/comment$ haber.php?id=$1&news=comment
